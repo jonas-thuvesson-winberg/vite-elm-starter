@@ -1,0 +1,1 @@
+A base project for vite and elm, using [vite-plugin-elm](https://www.npmjs.com/package/vite-plugin-elm)!

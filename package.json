@@ -1,0 +1,13 @@
+{
+  "name": "vite-elm-starter",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5",
+    "vite-plugin-elm": "^2.0.2"
+  }
+}
